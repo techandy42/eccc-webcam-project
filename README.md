@@ -1,5 +1,7 @@
 # Webcam Project
 
+<img src="./CMOS_webcam_project_poster.png" width="400">
+
 - Repository for notebooks and documentations for the Webcam project by Hokyung (Andy) Lee.
 - All notebooks, datasets, and media are also stored at [Webcam Google Drive](https://drive.google.com/drive/folders/1XF0cou1Y-k9X71IQBUHYKSDy2xDDVC39?usp=drive_link).
 - If you do not have access to the folder, please send an email at `techandy42@gmail.com` or `dominique.brunet@ec.gc.ca` to gain access.
